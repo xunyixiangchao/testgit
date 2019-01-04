@@ -1,4 +1,4 @@
 git checkout -b test1
 git add .
 git commit -m 'test'
-git push orgin test1
+git push origin test1
